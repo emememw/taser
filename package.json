@@ -1,5 +1,5 @@
 {
-  "name": "taser",
+  "name": "taser.js",
   "version": "0.0.1",
   "description": "Phaser environment for rapid game development",
   "main": "dist/taser.js",
@@ -7,7 +7,7 @@
     "build": "node node_modules/webpack/bin/webpack.js"
   },
   "keywords": [],
-  "author": "markus-wi",
+  "author": "markwi",
   "license": "ISC",
   "dependencies": {
     "alertify.js": "1.0.12",
