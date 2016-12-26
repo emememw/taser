@@ -16,6 +16,8 @@ module.exports = {
 		app: ["core/taser.js"],
 	},
 	output: {
+		name: "taser.js",
+		libraryTarget: "commonjs2",
 		path: `${__dirname}/dist`,
 		filename: "taser.js",
 	},

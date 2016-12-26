@@ -1,6 +1,6 @@
 {
   "name": "taser.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Phaser environment for rapid game development",
   "main": "dist/taser.js",
   "scripts": {
